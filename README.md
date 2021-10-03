@@ -4,7 +4,7 @@
 
 
 ```
-I completed the challenge: 5
-I feel good about my code: 3
+I completed the challenge: 4
+I feel good about my code: 4
 I feel pretty good as this was done as a group effort, but unfortunately with little time I had to finish my other projects I was not able to figure out why my main.js and style.css would not link to my index.html. What I would do differently is speak up more to my peers and EIR, and work more on my time management skills.
 ```
